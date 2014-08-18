@@ -1,5 +1,6 @@
 rackmount Cookbook
 ==================
+ Chef cookbook for setting up rackmount | Category: Applications 
 TODO: Enter the cookbook description here.
 
 e.g.
@@ -66,3 +67,7 @@ e.g.
 License and Authors
 -------------------
 Authors: TODO: List authors
+=======
+chef-rackmount
+==============
+
